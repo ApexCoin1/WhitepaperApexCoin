@@ -5,6 +5,10 @@ coverY: 53
 
 # Apex Coin Whitepaper
 
+### Abstract
+
+The abstract serves as a concise overview of the Apex Coin project. It should summarize the key points of the whitepaper, including the project's objectives and its utilization of cutting-edge technology such as Layer 2 and ZK rollups. However, since it is a summary, it would be best to craft it after completing the rest of the whitepaper.
+
 ### Introduction
 
 The introduction section of the whitepaper aims to introduce the readers to decentralized finance (DeFi) and provide a brief explanation of the Apex Coin project's mission. It highlights the significance of DeFi and emphasizes the role of Apex Coin in advancing the adoption of decentralized financial solutions. Additionally, it briefly mentions the project's utilization of Layer 2 and ZK rollups to enhance scalability, efficiency, and privacy.
