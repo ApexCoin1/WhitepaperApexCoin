@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/gitbookapex.png
-coverY: 56
+coverY: 0
 ---
 
 # Introduction

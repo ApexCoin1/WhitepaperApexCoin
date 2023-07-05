@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/gitbookapex.png
-coverY: 47
+coverY: 0
 ---
 
 # Decentralized Finance (DeFi) Overview
