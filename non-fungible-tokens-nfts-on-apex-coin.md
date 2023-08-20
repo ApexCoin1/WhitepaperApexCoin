@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/gitbookapex.png
+cover: .gitbook/assets/gitbookapex (1).png
 coverY: 0
 ---
 
