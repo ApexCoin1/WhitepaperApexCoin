@@ -7,6 +7,7 @@
 * [Decentralized Finance (DeFi) Overview](decentralized-finance-defi-overview.md)
 * [Layer 2 and ZK Rollups](layer-2-and-zk-rollups.md)
 * [Apex Coin Token (ApeX) and Tokenomics](apex-coin-token-apex-and-tokenomics.md)
+* [Decentralized Lending](decentralized-lending.md)
 * [Staking Platform](staking-platform.md)
 * [Non-Fungible Tokens (NFTs) on Apex Coin](non-fungible-tokens-nfts-on-apex-coin.md)
 * [Governance Mechanism](governance-mechanism.md)
