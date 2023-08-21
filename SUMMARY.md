@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📗 Apex Coin Whitepaper](README.md)
+* [🟢 Buy ApeX](https://www.pinksale.finance/launchpad/0xC7Ea4b582684B962497032b46843B7a0f02e181f?chain=BSC)
 * [Abstract](abstract.md)
 * [Introduction](introduction.md)
 * [Decentralized Finance (DeFi) Overview](decentralized-finance-defi-overview.md)
