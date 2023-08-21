@@ -16,4 +16,4 @@
 * [Conclusion](conclusion.md)
 * [🕵♂ KYC](https://pinksale.notion.site/Apex-coin-KYC-Verification-56a906277a08473db5b611c72ae93c1e?pvs=4)
 * [🕵♂ AUDIT](https://apexcoin.app/)
-* [🕵♂ SAFU](https://apexcoin.app/)
+* [🕵♂ SAFU](https://coinsult.net/safu\_report/apexcoin/)
