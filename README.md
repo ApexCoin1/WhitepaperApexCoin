@@ -7,7 +7,7 @@ coverY: 53
 
 
 
-<figure><img src=".gitbook/assets/gitbookapex.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coin3D.png" alt=""><figcaption></figcaption></figure>
 
 #### Abstract
 
